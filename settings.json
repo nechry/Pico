@@ -1,0 +1,2 @@
+"cortex-debug.openocdPath": "PATH TO openocd.exe",
+"cortex-debug.gdbPath": "arm-none-eabi-gdb"
