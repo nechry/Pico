@@ -1,8 +1,6 @@
 # Pico
 
-Pico C++ Boilerplate Project
-
-Debugging the Pico
+## Debugging the Pico in C++ Boilerplate Project
 
 settings.json
 
